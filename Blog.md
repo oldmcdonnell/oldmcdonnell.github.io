@@ -1,6 +1,8 @@
 <h1>My first blog entry.</h1>
 This is my first blog entry. We should be easing in the process of getting ready for bootcamp. I expect we will be working with the publishing side of things to a greater extend than I had previously. 
 
+Learning git through differing methods is interesting. 
+
 <details>
 <summary>My top languages</summary>
   
