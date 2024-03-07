@@ -8,6 +8,10 @@ Learning git through differing methods is interesting.
 
 I experience building automation engines for testing hardware and maintaining databases. I still haven't built my ranked choice voting app. Currently working through a couple of different courses.
 
+In my freetime I like running with the Hash House Harriers, which is a drinking club with a running problem and painting.
+
+![paper image](/img/hashbasics.jpg)
+
 
 <details>
 <summary>My top languages</summary>
