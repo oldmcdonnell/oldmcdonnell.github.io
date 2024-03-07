@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
 
 =======
-## Arts
+<h6>Arts</h6>
 [Instagram](https://www.instagram.com/mcdonnell.eoin/)
 
 [Deviantart](https://www.deviantart.com/aliramojo)
