@@ -14,13 +14,13 @@ Learning git through differing methods is interesting.
 |-----:|-----------|
 |     1| Python    |
 |     2| MySQL     |
-|     3| PHP     |
+|     3| PHP       |
 |     4| Action Script      |
-|     9| Javascript  |
+|     9| Javascript |
 
 </details>
 
-<h6>code</h6> 
+<h6>sample code</h6> 
 
 ``` python
 from flask import Flask, render_template
@@ -53,10 +53,12 @@ if __name__ == "__main__":
 - [x] Add files to assignment
 - [x] Clean up assignment
 - [x] Figure out how to get the nifty linkable URL
+- [ ] Rank list works in preview but not in the browser
 
 
-=======
+---
 <h6>Arts</h6>
+
 [Instagram](https://www.instagram.com/mcdonnell.eoin/)
 
 [Deviantart](https://www.deviantart.com/aliramojo)
