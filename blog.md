@@ -1,14 +1,4 @@
-<html>
-  <head>
-    <!-- To be placed in the head tag -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gardevoir" /> 
-  </head>
-
 <h1>My first blog entry.</h1>
-
-  <body>
-  </body>
-</html>
 
 ![paper image](/img/PIC.jpg)
 
