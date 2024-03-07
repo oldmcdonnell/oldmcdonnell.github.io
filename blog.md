@@ -51,10 +51,13 @@ if __name__ == "__main__":
 - [x] Edit index.md
 - [x] Finish Markdown lesson
 - [x] Add files to assignment
-- [ ] Clean up assignment
-- [ ] Figure out how to get the nifty linkable URL
+- [x] Clean up assignment
+- [x] Figure out how to get the nifty linkable URL
 
-<<<<<<< HEAD
+
 =======
 ## Arts
->>>>>>> 44c09549426aaf6644592b655d82f6b9e44b48cf
+[Instagram](https://www.instagram.com/mcdonnell.eoin/)
+
+[Deviantart](https://www.deviantart.com/aliramojo)
+
