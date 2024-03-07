@@ -13,11 +13,10 @@ Learning git through differing methods is interesting.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| MySQL       |
+|     2| MySQL     |
 |     3| PHP     |
 |     4| Action Script      |
 |     9| Javascript  |
-|     24| Git…  |
 
 </details>
 
@@ -54,3 +53,5 @@ if __name__ == "__main__":
 - [x] Add files to assignment
 - [ ] Clean up assignment
 - [ ] Figure out how to get the nifty linkable URL
+
+## Arts
