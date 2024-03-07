@@ -13,10 +13,8 @@ Learning git through differing methods is interesting.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| MySQL     |
-|     3| PHP       |
-|     4| Action Script      |
-|     9| Javascript |
+|     2| SQL       |
+|     3| Javascript|
 
 </details>
 
