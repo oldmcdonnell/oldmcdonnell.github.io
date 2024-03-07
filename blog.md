@@ -1,4 +1,13 @@
+<html>
+  <head>
+    <!-- To be placed in the head tag -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gardevoir" /> 
+  </head>
+
 <h1>My first blog entry.</h1>
+
+  <body>
+
 
 ![paper image](/img/PIC.jpg)
 
@@ -6,7 +15,7 @@ This is my first blog entry. We should be easing in the process of getting ready
 
 Learning git through differing methods is interesting. 
 
-I experience building automation engines for testing hardware and maintaining databases. I still haven't built my ranked choice voting app. Currently working through a couple of different courses.
+I have experience building automation engines for testing hardware and maintaining databases. I still haven't built my ranked choice voting app. Currently working through a couple of different courses.
 
 In my freetime I like running with the Hash House Harriers, which is a drinking club with a running problem and painting.
 
@@ -68,3 +77,5 @@ if __name__ == "__main__":
 
 [Deviantart](https://www.deviantart.com/aliramojo)
 
+  </body>
+</html>
