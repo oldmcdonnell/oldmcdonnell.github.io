@@ -6,6 +6,8 @@ This is my first blog entry. We should be easing in the process of getting ready
 
 Learning git through differing methods is interesting. 
 
+I experience building automation engines for testing hardware and maintaining databases. I still haven't built my ranked choice voting app. Currently working through a couple of different courses.
+
 
 <details>
 <summary>My top languages</summary>
@@ -15,6 +17,7 @@ Learning git through differing methods is interesting.
 |     1| Python    |
 |     2| SQL       |
 |     3| Javascript|
+|     4| PHP       |
 
 </details>
 
