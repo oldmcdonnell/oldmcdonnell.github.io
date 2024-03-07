@@ -7,7 +7,8 @@
 <h1>My first blog entry.</h1>
 
   <body>
-
+  </body>
+</html>
 
 ![paper image](/img/PIC.jpg)
 
@@ -76,6 +77,3 @@ if __name__ == "__main__":
 [Instagram](https://www.instagram.com/mcdonnell.eoin/)
 
 [Deviantart](https://www.deviantart.com/aliramojo)
-
-  </body>
-</html>
