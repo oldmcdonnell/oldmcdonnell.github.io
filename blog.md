@@ -67,3 +67,7 @@ if __name__ == "__main__":
 [Instagram](https://www.instagram.com/mcdonnell.eoin/)
 
 [Deviantart](https://www.deviantart.com/aliramojo)
+
+---
+
+[linkedIN](https://www.linkedin.com/in/eoin-mcdonnell-01078923/)
