@@ -5,6 +5,11 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
+plugins:
+- jekyll-remote-theme
+
 ############################
 # --- Required options --- #
 ############################
