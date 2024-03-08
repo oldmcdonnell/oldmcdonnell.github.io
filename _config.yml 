@@ -5,10 +5,9 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 ############################
 # --- Required options --- #
