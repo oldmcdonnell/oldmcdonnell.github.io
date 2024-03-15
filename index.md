@@ -22,7 +22,8 @@
 <h3>What methods do you use to help yourself get unstuck? </h3>
 <p id="p1">I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution</p>
 
-
+</body>
+</html>
 
 ---
 
@@ -100,5 +101,3 @@ if __name__ == "__main__":
 
 [linkedIN](https://www.linkedin.com/in/eoin-mcdonnell-01078923/)
 
-</body>
-</html>
