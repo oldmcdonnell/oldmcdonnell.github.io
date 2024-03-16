@@ -1,11 +1,13 @@
 <html lang="en">
+
 <head>
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<h1>Week 2 Blog</h1>
+<h1> Week 2 Blog</h1>
 
 <h3>What is something you wish you could do but currently do not have the coding skills to accomplish?</h3>
 
@@ -25,7 +27,9 @@
 </body>
 </html>
 
+
 ---
+
 
 <h1>My first blog entry.</h1>
 
