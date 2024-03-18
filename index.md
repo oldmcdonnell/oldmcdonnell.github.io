@@ -1,4 +1,8 @@
-<h1>My first blog entry.</h1>
+# Index
+- [First Week](#My-First-Blog-Enry)
+- [Second Week](#Second-Week)
+
+# My First Blog Enry
 
 ![paper image](/img/PIC.jpg)
 
@@ -60,6 +64,11 @@ if __name__ == "__main__":
 - [x] Figure out how to get the nifty linkable URL
 - [ ] Rank list works in preview but not in the browser
 
+---
+
+# Second Week
+
+
 
 ---
 <h6>Arts</h6>
@@ -71,3 +80,6 @@ if __name__ == "__main__":
 ---
 
 [linkedIN](https://www.linkedin.com/in/eoin-mcdonnell-01078923/)
+
+
+
