@@ -74,7 +74,7 @@ I already used things like dreamweaver and photoshop to create websites. I'm hav
 
 ### What are you struggling with?
 
-Things are out of order for no reason... I have no idea what is going on here...
+I'm having to commit and push multiple times for it to register on the blog. I'm not sure why. My links work in github but not .io. 
 
 ### How do you solve a problem?
 
@@ -83,7 +83,6 @@ Usually i search for solutions or look for other code. Sometimes I will ask for 
 ### What methods do you use to help yourself get unstuck?
 
 I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution
-
 
 ---
 <h6>Arts</h6>
