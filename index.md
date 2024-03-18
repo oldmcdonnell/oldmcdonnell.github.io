@@ -29,7 +29,7 @@ In my freetime I like running with the Hash House Harriers, which is a drinking 
 
 </details>
 
-<h6>sample code</h6> 
+#### sample code
 
 ``` python
 from flask import Flask, render_template
@@ -68,6 +68,21 @@ if __name__ == "__main__":
 
 # Second Week
 
+### What is something you wish you could do but currently do not have the coding skills to accomplish?
+
+I already used things like dreamweaver and photoshop to create websites. I'm having to start all over and it's infuriating because I know there are applications that can do 10^10 what I can in code
+
+### What are you struggling with?
+
+Things are out of order for no reason... I have no idea what is going on here...
+
+### How do you solve a problem?
+
+Usually i search for solutions or look for other code. Sometimes I will ask for help
+
+### What methods do you use to help yourself get unstuck?
+
+I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution
 
 
 ---
