@@ -1,35 +1,22 @@
-<html lang="en">
-
-<head>
-<meta charset="utf-8">
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-<h1> Week 2 Blog</h1>
+<h1>Week 2 Blog</h1>
 
 <h3>What is something you wish you could do but currently do not have the coding skills to accomplish?</h3>
 
-<p id="p1"> I would like to know more about float objects</p>
+<p class="p1">I already used things like dreamweaver and photoshop to create websites. I'm having to start all over and it's infuriating because I know there are applications that can do 10^10 what I can in code</p>
 
 <h3>What are you struggling with?</h3>
 
-<p id="p1">I want to change the blog to be more episodic like how to make it so that each entry is searchable on it's own. Has it's own time/date stamp<p>
+<p class="p1">Things are out of order for no reason... I have no idea what is going on here... <p>
 
 <h3>How do you solve a problem? </h3>
 
-<p id="p1">Usually i search for solutions or look for other code. Sometimes I will ask for help.</p>
+<p class*"p1">Usually i search for solutions or look for other code. Sometimes I will ask for help.</p>
 
 <h3>What methods do you use to help yourself get unstuck? </h3>
-<p id="p1">I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution</p>
-
-</body>
-</html>
+<p class="p1">I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution</p>
 
 
 ---
-
 
 <h1>My first blog entry.</h1>
 
