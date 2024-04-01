@@ -1,6 +1,8 @@
 # Index
 - [First Week](#My-First-Blog-Enry)
 - [Second Week](#Second-Week)
+- [Third Week](#Third-Week)
+- [Fourth Week](#Fourth-Week)
 
 # My First Blog Enry
 
@@ -83,6 +85,25 @@ Usually i search for solutions or look for other code. Sometimes I will ask for 
 ### What methods do you use to help yourself get unstuck?
 
 I will work on something else or relax and change focus. Sometimes watching a dumb show for a couple minutes can help me relax and then I sometimes come up with a better solution
+
+
+
+---
+
+# Fourth Week
+
+### What was helpful during Onboarding working remotely?
+
+Setting my own schedule and just making time to eat in general. 
+
+### What hindered your progress during Onboarding?
+
+I was confused by some of the prompts or assignments. We had just created a blog and then we told to update the blog but which blog? Stuff like that. 
+
+### How did you overcome challenges during Onboarding?
+
+Asking questions in slack. 
+
 
 ---
 <h6>Arts</h6>
