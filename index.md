@@ -3,6 +3,8 @@
 - [Second Week](#Second-Week)
 - [Third Week](#Third-Week)
 - [Fourth Week](#Fourth-Week)
+- [Fifth Week](Fifth-Week)
+
 
 # My First Blog Enry
 
@@ -104,6 +106,16 @@ I was confused by some of the prompts or assignments. We had just created a blog
 
 Asking questions in slack. 
 
+# Fifth Week
+
+### What is the number one thing that held you back this week? Why?
+
+CSS was difficult to implement alongside botstrap. I got stuck with ome of the code and maybe should have abondoned it and started over. I should have gotten the asssest and layout sorted out first
+
+### What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+### What is your “Why”?
+
+JSON sounds interesting, I want ot know more about memory for webbrowsers and how to use it for web design. As far as Atomic I definietly need to spend more time in pseudocode. My why is to get to a point where I can develop things that are complex but made simply. 
 
 ---
 <h6>Arts</h6>
