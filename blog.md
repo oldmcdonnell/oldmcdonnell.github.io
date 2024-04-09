@@ -1,9 +1,9 @@
 # Index
-- [First Week](#My-First-Blog-Enry)
-- [Second Week](#Second-Week)
-- [Third Week](#Third-Week)
-- [Fourth Week](#Fourth-Week)
-- [Fifth Week](#Fifth-Week)
+- [First Week](mMy-first-blog-enry)
+- [Second Week](#second-week)
+- [Third Week](#third-week)
+- [Fourth Week](#fourth-Week)
+- [Fifth Week](#fifth-Week)
 
 
 # My First Blog Enry
@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
 ---
 
-# Second Week
+###Second Week
 
 ### What is something you wish you could do but currently do not have the coding skills to accomplish?
 
@@ -92,7 +92,7 @@ I will work on something else or relax and change focus. Sometimes watching a du
 
 ---
 
-# Fourth Week
+###Fourth Week
 
 ### What was helpful during Onboarding working remotely?
 
@@ -106,7 +106,7 @@ I was confused by some of the prompts or assignments. We had just created a blog
 
 Asking questions in slack. 
 
-# Fifth Week
+###Fifth Week
 
 ### What is the number one thing that held you back this week? Why?
 
@@ -127,6 +127,3 @@ JSON sounds interesting, I want ot know more about memory for webbrowsers and ho
 ---
 
 [linkedIN](https://www.linkedin.com/in/eoin-mcdonnell-01078923/)
-
-
-
