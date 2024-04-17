@@ -77,7 +77,8 @@ height: 400px;
     }
     
   }
-  
+ 
+  /*-
   body {
     margin: 0;
     font: 100% / 1.5 Raleway, sans-serif;
@@ -93,3 +94,24 @@ height: 400px;
     font-weight: 300;
     animation: lights 5s 750ms linear infinite;
   }
+  -*/
+
+
+  body {
+    margin: 0;
+    font: 100% / 1.5 Raleway, sans-serif;
+    color: hsl(230, 100%, 95%);
+    background: linear-gradient(135deg, hsl(230, 40%, 12%), hsl(230, 20%, 7%));
+  }
+
+  .heroText{
+    margin: auto;
+    font-size: 3.5rem;
+    font-weight: 300;
+    animation: lights 5s 750ms linear ;
+    animation-iteration-count: 3;
+}
+
+.semiOpacity{
+    opacity: 80%;
+    }
